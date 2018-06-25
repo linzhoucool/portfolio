@@ -1,0 +1,66 @@
+ 
+h1{ 
+    text-align: right
+}
+p{
+text-align: right
+}
+
+.topbar{
+    margin:100px;
+    background-color: aquamarine
+}
+
+.container{
+    text-align: center;  
+    width:980px; 
+    margin:0 auto; 
+    background-color: aquamarine
+    }
+
+img{
+    max-width:100%
+}
+
+.pic{
+    height:500px;
+    overflow:hidden
+}
+
+.littlecontainer{
+
+    margin-top: 50px;
+    display:flex;
+    align-items: left;
+    flex-wrap:wrap;
+    justify-content: space-around 
+
+  }  
+
+.small-picture{
+    width:200px;
+    height:100px;
+    margin:10px 0;
+    overflow: hidden;
+}
+
+@media screen and (max-width:980px) {
+    .container{
+     width:100%; 
+        }
+                 
+}
+    
+
+@media screen and (max-width:650px){
+    .littlecontainer{
+        /* flex-direction: column; */
+    }
+}
+    .pic{
+        height:300px;
+    }
+
+
+
+    
