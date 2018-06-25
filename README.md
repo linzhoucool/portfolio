@@ -11,7 +11,7 @@ Here is the portfofolio. It shows that the famous singer Tolyer-Swift ！
 USAGE:
 -----
 
-![Alt text](C:\Users\SD21\Desktop\Portfolio\PIC\pic1)
+![Alt text](pic1.PNG)
 
 
 You can see that there are some Picture of Tolyer-swift! It can be clicked also, after you click it ,you will see there are the facebook insgram and the information of Tolyer! Check it out by yourself. Good luck!
